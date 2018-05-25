@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 function HelloWorld({ message }) {
-  return <div>{message}</div>;
+  return <div>Hello {message}</div>;
 }
 
 HelloWorld.propTypes = {
