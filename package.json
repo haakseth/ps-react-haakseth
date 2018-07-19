@@ -1,7 +1,7 @@
 {
-  "name": "ps-react-haakseth",
+  "name": "react-components",
   "version": "0.1.0",
-  "homepage": "http://haakseth.github.io/ps-react-haakseth/",
+  "homepage": "http://haakseth.github.io/react-components/",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",

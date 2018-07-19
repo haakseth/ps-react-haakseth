@@ -1,5 +1,5 @@
 import React from 'react';
-import TextInputCSSModules from 'ps-react/TextInputCSSModules';
+import TextInputCSSModules from 'react-components/TextInputCSSModules';
 
 /** Text input with error essage */
 export default function ExampleTextInputError() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import TextInputStyledComponents from 'ps-react/TextInputStyledComponents';
+import TextInputStyledComponents from 'react-components/TextInputStyledComponents';
 
 /** Text input with error essage */
 export default function ExampleTextInputStyledComponentsError() {
